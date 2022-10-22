@@ -5,7 +5,7 @@ Mysql ile eşzamanlı çalışır
 User password paneli mevcuttur
 
 Kullanılan teknolojiler
-![image](https://user-images.githubusercontent.com/94048854/197330413-7bf38be8-0602-4fea-89f5-1958bcd8c125.png)
+https://www.eclipse.org/
 https://ampps.com/
 
 
