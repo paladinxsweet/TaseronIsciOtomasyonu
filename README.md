@@ -1,5 +1,5 @@
 # TaseronIsciOtomasyonu
-![image](https://user-images.githubusercontent.com/94048854/197330852-69759196-09b2-4306-ac89-acfed5323e4e.png)
+![<İkon ismi>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
 TaseronIsciOtomasyonu
 Kişi bilgierini girerek kaydedecegimiz bilgileri veritabanı(mysql) üzerinden kaydedilerek aşagıdaki tabloda gözükmesini saglar
 Mysql ile eşzamanlı çalışır
