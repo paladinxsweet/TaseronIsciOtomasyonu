@@ -14,5 +14,8 @@ https://ampps.com/
 
 
 Ekran görüntüleri
-![Ekran Alıntısı](https://user-images.githubusercontent.com/94048854/197330379-d7a28525-10b3-438c-a7c8-41cd316cda8e.PNG)
-![Ekran Alıntısı1](https://user-images.githubusercontent.com/94048854/197330386-acddd547-8f5a-4414-99f8-f5e95bcff1c8.PNG)
+
+
+![Ekran Alıntısı1](https://user-images.githubusercontent.com/94048854/197330787-efa97e36-c528-468b-8d96-6b4ba3386777.PNG)
+
+![atılacak](https://user-images.githubusercontent.com/94048854/197330790-244d3163-a98e-45de-89bd-7bd9c5ee13d3.PNG)
