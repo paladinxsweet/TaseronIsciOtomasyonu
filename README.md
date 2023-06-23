@@ -1,16 +1,36 @@
 # TaseronIsciOtomasyonu
 
-## Projenin amacı
+# Kişiler Uygulaması
 
-İş yerinde kullanıcı bilgileri kaydetmek,güncellemek,silmek,tabloda görmek yada yeni bir kişi oluşturmak için kullanılır. <br/>
+Bu proje, JavaFX kullanarak geliştirilmiş bir kişiler yönetim uygulamasıdır. Uygulama, bir veritabanıyla entegre olarak çalışır ve kişilerin ad, soyad, doğum tarihi, telefon, adres, firma, mevki, ücret, çalışma süresi, sigorta ve bulunduğu proje gibi bilgilerini tutar.
 
-### Eklentiler
-Kişi bilgierini girerek kaydedecegimiz bilgileri veritabanı(mysql) üzerinden kaydedilerek aşagıdaki tabloda gözükmesini saglar<br/>
-Mysql ile eşzamanlı çalışır<br/>
-User password paneli mevcuttur<br/>
-Ekle , Sil , Güncelle , Yeni (Buttons)<br/>
-name,surname,date of birth,telephone,address,company,position,fee,operation time,insurance,the project involved <br/>
+## Özellikler
 
+- Kişilerin bilgilerini görüntülemek için tablo kullanılır.
+- Yeni kişiler ekleyebilir, mevcut kişilerin bilgilerini güncelleyebilir ve kişileri silebilirsiniz.
+- Kişilerin bilgilerini adlarına göre filtreleyebilirsiniz.
+- Kişi bilgileri, veritabanından dinamik olarak yüklenir ve güncellenir.
+
+## Nasıl Kullanılır
+
+1. Uygulamayı çalıştırın.
+2. Kişilerin bilgilerini görmek için tabloyu inceleyin.
+3. Yeni bir kişi eklemek için "Ekle" düğmesini kullanın ve gerekli bilgileri girin.
+4. Mevcut bir kişinin bilgilerini güncellemek için tabloda ilgili kişiyi seçin ve "Güncelle" düğmesini tıklayın.
+5. Bir kişiyi silmek için tabloda ilgili kişiyi seçin ve "Sil" düğmesini tıklayın.
+6. Kişileri adlarına göre filtrelemek için arama alanına bir ad girin.
+
+## Kurulum
+
+1. Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
+2. İndirilen projeyi bir Java IDE'sinde açın.
+3. Bağımlılıkları kontrol edin ve gerektiğinde ilgili kütüphaneleri ekleyin.
+4. Veritabanı bağlantısı için gerekli yapılandırmaları yapın.
+5. Uygulamayı derleyin ve çalıştırın.
+
+## Katkıda Bulunma
+
+Bu projeye katkıda bulunmak isterseniz, GitHub deposunu çatallayabilir ve geliştirme ortamınızda değişiklikler yapabilirsiniz. Daha sonra, değişikliklerinizi bir dalda saklayarak ana depoya geri dönüş yapabilirsiniz. Herhangi bir hata veya iyileştirme önerisi için lütfen bir konu açın.
 
 
 Kullanılan teknolojiler : <br/>
