@@ -1,37 +1,36 @@
-# TaseronIsciOtomasyonu
+#TASERONISCIOTOMATION
 
-# Kişiler Uygulaması
+# Contacts Application
 
-Bu proje, JavaFX kullanarak geliştirilmiş bir kişiler yönetim uygulamasıdır. Uygulama, bir veritabanıyla entegre olarak çalışır ve kişilerin ad, soyad, doğum tarihi, telefon, adres, firma, mevki, ücret, çalışma süresi, sigorta ve bulunduğu proje gibi bilgilerini tutar.
+This project is a contacts management application developed using JavaFX. The application works integrally with a database and keeps people's information such as first name, last name, date of birth, phone number, address, company, location, salary, working time, insurance and the project where it is located.
 
-## Özellikler
+## Features
 
-- Kişilerin bilgilerini görüntülemek için tablo kullanılır.
-- Yeni kişiler ekleyebilir, mevcut kişilerin bilgilerini güncelleyebilir ve kişileri silebilirsiniz.
-- Kişilerin bilgilerini adlarına göre filtreleyebilirsiniz.
-- Kişi bilgileri, veritabanından dinamik olarak yüklenir ve güncellenir.
+- A table is used to display information about people.
+- You can add new contacts, update the information of existing contacts, and delete contacts.
+- You can filter people's information by their names.
+- Contact information is dynamically uploaded and updated from the database.
 
-## Nasıl Kullanılır
+## How to Use
 
-1. Uygulamayı çalıştırın.
-2. Kişilerin bilgilerini görmek için tabloyu inceleyin.
-3. Yeni bir kişi eklemek için "Ekle" düğmesini kullanın ve gerekli bilgileri girin.
-4. Mevcut bir kişinin bilgilerini güncellemek için tabloda ilgili kişiyi seçin ve "Güncelle" düğmesini tıklayın.
-5. Bir kişiyi silmek için tabloda ilgili kişiyi seçin ve "Sil" düğmesini tıklayın.
-6. Kişileri adlarına göre filtrelemek için arama alanına bir ad girin.
+1. Run the application.
+2. Examine the table to see the information of the people.
+3. To add a new contact, use the "October" button and enter the necessary information.
+4. To update the information of an existing contact, select the contact in the table and click the "Update" button.
+5. To delete a contact, select the contact in the table and click the "Delete" button.
+6. Enter a name in the search field to filter people by their first Dec.
 
-## Kurulum
+## Installation
 
-1. Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
-2. İndirilen projeyi bir Java IDE'sinde açın.
-3. Bağımlılıkları kontrol edin ve gerektiğinde ilgili kütüphaneleri ekleyin.
-4. Veritabanı bağlantısı için gerekli yapılandırmaları yapın.
-5. Uygulamayı derleyin ve çalıştırın.
+1. Download or clone the project files to your computer.
+2. Open the downloaded project in a Java IDE.
+3. Check the dependencies and add the corresponding libraries as needed.
+4. Make the necessary configurations for the database connection.
+5. Compile the application and run it.
 
-## Katkıda Bulunma
+## Contributing
 
-Bu projeye katkıda bulunmak isterseniz, GitHub deposunu çatallayabilir ve geliştirme ortamınızda değişiklikler yapabilirsiniz. Daha sonra, değişikliklerinizi bir dalda saklayarak ana depoya geri dönüş yapabilirsiniz. Herhangi bir hata veya iyileştirme önerisi için lütfen bir konu açın.
-
+If you would like to contribute to this project, you can fork the GitHub repository and make changes to your development environment. Later, you can return to the main repository by storing your changes in a branch. Please open a topic for any errors or suggestions for improvements.
 
 Kullanılan teknolojiler : <br/>
 [Eclipse](https://www.eclipse.org/)
@@ -42,7 +41,7 @@ Kullanılan teknolojiler : <br/>
 
 
 
-Ekran görüntüleri
+Screenshots
 
 ![bu atılack](https://user-images.githubusercontent.com/94048854/197331584-73cb3fcc-e5ab-4e9a-9e68-da5e2fb68d92.jpg) <br/>
 
